@@ -6,7 +6,7 @@ Make sure you have a raspberry pi with an sd card in it running resbian (It's fi
 Then check to make sure your version of resbian, python 3, and wolfram are up to date
 
 # Step 1
-Download the program files from Github (These withh replce the files Jez Whitworth have provided)
+Download the program files from Github (These with replce the files Jez Whitworth have provided)
 
 # Step 2
 Watch this video which will explain how to create a Wolframalpha account and how to get your appid
@@ -24,4 +24,4 @@ Put the Chat script along with any SQ files onto an external storage device that
 Once your raspberry pi is booted open the start menu and open python 3 (IDLE), In the top left press file, then open and find the directory of the Chat file. You will see another window woth the script open up, got to the top and press run, then Run Module.
 
 # Step 7 - Enjoy
-I hope this helps ifit dosen't please contact me here on github, Please note that these instructions are for people using windows and want Woggle running on there raspberry pi, if your using Mac, you can try to the best of your abilities but I'm sorry if it dosen't work the same.
+I hope this helps, if it dosen't please contact me here on github, Please note that these instructions are for people using windows and want Woggle running on there raspberry pi, if your using Mac, you can try to the best of your abilities but I'm sorry if it dosen't work the same.
