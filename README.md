@@ -9,7 +9,7 @@ Then check to make sure your version of resbian, python 3, and wolfram are up to
 Download the program files from Github (These with replce the files Jez Whitworth have provided)
 
 # Step 2
-Watch this video which will explain how to create a Wolframalpha account and how to get your appid
+Watch this video https://www.youtube.com/watch?v=tW1TM8m429Q which will explain how to create a Wolframalpha account and how to get your appid
 
 # Step 3
 Open the "Chat" script in a text editor by right clicking it and the go to "open with" (DO NOT OPEN IN PYTHON YET)
