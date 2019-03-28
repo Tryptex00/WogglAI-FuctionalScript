@@ -127,15 +127,15 @@ while True:
     if firstword in ['question', 'question:', 'question-']:
         query = question.split(' ',1)[1] # Removes first word
         res = client.query(query)
-        if len(res.pods) > 0:
+        if len(list(res.pods)) > 0:
                 texts = ""
-                pod = res.pods[1]
+                pod = list(res.pods)[1]
                 if pod.text:
                     texts = pod.text
                 else:
                     texts = "I don't have an answer for that I'm afraid."
                 texts = texts.encode('ascii', 'ignore')
-                ab = string.replace (texts, "Wolfram|Alpha", "Woggle")
+                ab = texts
                 print(ab)
         else:
                 print ("> Hmmm, I'm really not sure. Let me Google that...")
