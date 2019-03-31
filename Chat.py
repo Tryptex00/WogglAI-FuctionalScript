@@ -52,7 +52,7 @@ thanksreply = ['No problem.', 'No worries.', "You're welcome.", 'My pleasure.']
 
 
 # Wolfram Alpha credentials - needed for general knowledge questions when online 
-appid = 'AH4WJ6-R8Y9JTGKJ7' # <--- Insert your free Wolfram Alpha token here - https://developer.wolframalpha.com/portal/apisignup.html
+appid = 'Insert Your appid Here in these quotations' # <--- Insert your free Wolfram Alpha token here - https://developer.wolframalpha.com/portal/apisignup.html
 client = wolframalpha.Client(appid)
  
 # Connection details for the conversation database. If there is no file present or the location is referenced
