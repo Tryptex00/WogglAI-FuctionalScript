@@ -1,6 +1,8 @@
 # WogglAI-FuctionalScript
 Jez Whitworth Create an AI chatbot called "Woggle" but as the years have gone by the scripts have become out dated and don't function anymore, we have fixed that but unforunetly the question system that allows woggle to go to the internet and bring back information no longer works but you still get the AI.
 
+# NOTE - Before Starting
+Since this modified version of woggle was created here on Github, Jez Whitworth has created an online version Here: https://repl.it/@rustyrocket/Chatterbox that can be run in a web browser without any of the steps below, however, Woggle won't remember your conversations with him or learn from what you teach him if you run it in the web browser. If you want Woggle to remember the conversations you had with him and learn from them then you will need to run it locally on your raspberry pi, which means you will still need this guide for that. So to summarize, if you don't need Woggle to learn or just want to try him out, you can go to the web link, but if you want to be able to run woggle without Wifi on a raspberry pi and be able to learn, you will need this guide.
 # Step 0 - Preperation
 Make sure you have a raspberry pi with an sd card in it running resbian (It's fine to be running resbian on noobs)
 Then check to make sure your version of resbian, python 3, and wolfram are up to date
